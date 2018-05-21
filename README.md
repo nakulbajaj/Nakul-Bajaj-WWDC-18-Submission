@@ -21,4 +21,4 @@ https://youtu.be/rHdn6DxKBbY
   I am the founder and organizer of HarkerHacks, our school’s first hackathon to be held in May at 42 Silicon Valley. The event is open to all high school students at no charge. My goal is to encourage students at my own school, but also their friends at other schools, to participate and expand their curiosity and interest in computer science. 
   I am currently enrolled in two Computer Science courses at school. In AP Computer Science, I help those who need assistance for their projects and labs by slowly guiding them to the solution with hints. In the Data Analytics with Python class, I enjoy sharing code snippets that can make data visualization easier with tables and graphs. Given my own level of confidence, encouragement from my teachers, and the opportunity that my school provides, I plan to serve as a teaching assistant for my middle school’s computer science program.
 
-![Alt Text](https://media.giphy.com/media/628nm0k7P7eCXidtyh/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1ziD8iAtePcUFgDVO4/giphy.gif)
